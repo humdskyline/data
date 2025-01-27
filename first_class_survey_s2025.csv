@@ -1,0 +1,18 @@
+Learner Type,Household Count,Transportation Used,Favorite Sport,HS Grad,FT Worker,Height,BA Degree,Major,City,Class Modality,Favorite Color,Exercise Hours,Meals Per Day,Units Enrolled
+visual,3,private car,Baseball,Yes,No,67,Yes,Mathematics,Daly City,Face-to-face,Golden Poppy Yellow,2,4,7
+visual,8,private car,basketball,Yes,No,59,Yes,Mathematics (Statistics),Daly City,Face-to-face,pink,4,3,15
+visual,3,private car,Football,Yes,No,66,Yes,Biology,Daly City,Face-to-face,Blue,5,3,4
+visual,4,private car,,Yes,No,60,No,Data Science,Pacifica,Face-to-face,Purple,4,3,16
+auditory,1,private car,swimming,Yes,Yes,63,Yes,math,Oakland,Face-to-face,blue,6,4,3
+visual,2,private car,basketball ,Yes,No,63,Yes,Biology ,San Francisco ,Face-to-face,Burgandy ,5,2,7
+visual,2,private car,Swimming,Yes,No,70,Yes,Economics,Daly city,Hybrid,Green,4,3,4
+auditory,2,private car,football,Yes,Yes,54,Yes,data science,S. San Francisco,Face-to-face,burgandy,4,3,16
+visual,1,ride-share,Boxing,Yes,No,72,No,Computer Science,San Francisco,Face-to-face,Black,7,1,19
+visual,2,private car,Tennis,Yes,No,63,No,Political Science,San Bruno,Face-to-face,Dark burgundy,6,2,19
+visual,4,walk,Slapping,Yes,No,67,No,Engineering,San Bruno,Face-to-face,Dark Green,5,2,7
+auditory,4,private car,Running,Yes,No,59,No,Political Science,Pacifica,Face-to-face,Pink,6,2,16
+visual,2,public transit,Baseball,Yes,No,71,No,Mathematics ,Daly City,Face-to-face,Blue,3,2,16
+visual,4,private car,Dancing,Yes,No,67,No,Biology,Pacifica ,Face-to-face,Purple and Brown,2,2,12
+visual,4,private car,mma,Yes,No,64,No,computer science,union city,Online,blue,6,6,10
+visual,4,private car,Tennis and Golf,Yes,No,69,Yes,B.A. Business ,San Mateo,Online,Green,4,2,6
+visual,4,private car,,Yes,No,65,Yes,pharmaceutical sciences,San Jose,Online,burgundy,7,3,6
