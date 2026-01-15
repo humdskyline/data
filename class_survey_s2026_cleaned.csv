@@ -1,0 +1,24 @@
+Learner Type,Household Count,Transportation Used,Favorite Sport,HS Grad,FT Worker,Height,BA Degree,Major,City,Class Modality,Favorite Color,Exercise Hours,Meals Per Day,Units Enrolled
+visual,4,bike & public transit,Running,Yes,No,70,No,Geography + Global Studies,Pacifica,Face-to-face,Yellow,15,3,18
+visual,8,private car,basketball,Yes,No,58,Yes,Data Science,Daly City,Face-to-face,Pink,3,2,11
+visual,3,private car,baseball,Yes,No,69,No,Political Science,Daly City,Online,Green,6,4,15
+visual,4,public transit,Tennis,Yes,No,62,No,Psychology,South San Francisco,Face-to-face,Pink,2,3,15
+visual,5,private car,Golf,Yes,No,64.2,No,Art,San Francisco,Face-to-face,Pink,3,2,11
+visual,5,private car,tennis,Yes,No,61,No,Political Science,Daly City,Online,Green,7,1,19
+visual,5,private car,Football,Yes,No,63,No,Mathematics,South San Francisco,Face-to-face,Purple,10,1,13
+visual,3,public transit,Soccer,Yes,No,70,No,Data Science,Daly City,Online,Green,12,2,19
+visual,1,private car,Soccer,Yes,No,71,No,Computer Science,Daly City,Face-to-face,Black,18,3,12
+visual,3,public transit,taekwondo,Yes,No,61,No,Data Science,Daly City,Online,Purple,1,3,22
+visual,4,private car,volleyball,No,No,62,No,undeclared,South San Francisco,Face-to-face,Pink,2,2,13
+auditory,4,private car,Cricket ,Yes,Yes,69.6,No,Exploring,Millbrae,Online,Red,10,2,12
+visual,5,private car,Swimming,Yes,Yes,83,No,Biotechnology Technician,South San Francisco,Hybrid,Blue,1,3,7
+visual,4,private car,"Hockey, Football",No,No,70,No,Undeclared ,Daly City,Hybrid,Green,8,2,13
+visual,1,public transit,N/A,Yes,No,66,No,Computer Science ,Daly City,Hybrid,Green,1,3,13
+visual,4,private car,Boxing,Yes,No,65,No,N/A,Burlingame,Hybrid,Green,15,5,16
+visual,4,private car,Basketball,Yes,No,67,No,Psychology,South San Francisco,Face-to-face,Green,4,2,7
+visual,3,private car,Baseball ,Yes,No,71,No,Computer Science ,Daly City,Hybrid,Blue ,0,2,6
+visual,2,public transit,Badminton,Yes,No,74,No,N/A,Pacifica,Hybrid,Pink,10,2,14
+visual,2,private car,Futbol “Soccer”,Yes,Yes,70,No,Data Science,Daly City,Face-to-face,Green,3,2,13
+visual,4,private car,badminton,Yes,No,70.9,No,Data Science,San Bruno,Online,Black,2,2,16
+auditory,2,public transit,Hockey,No,No,61,No,Law/Computer Science,Pacifica,Face-to-face,Black,5,1,16
+auditory,1,private car,Basketball,Yes,Yes,67,Yes,Mathematics,Redwood City,Face-to-face,Green,2,2,4
